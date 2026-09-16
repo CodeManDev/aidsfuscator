@@ -54,7 +54,7 @@ aidsfuscator.jar
 workspace
 |- aidsfuscator-api.jar
 |- config.json
-|- initOrder.java
+|- initOrder.json
 |- references.json
 \- exclusions.json
 ```
